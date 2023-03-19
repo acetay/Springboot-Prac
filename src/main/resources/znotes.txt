@@ -9,4 +9,7 @@ debug
 info
 warning
 error
-off
+
+
+Building jar: /Users/aceveron/CodingStuff/learn-springboot/target/
+learn-springboot-0.0.1-SNAPSHOT.jar
